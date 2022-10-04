@@ -30,14 +30,15 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     "django.contrib.sites",
-    # local
-    'accounts.apps.AccountsConfig',
-    'pages.apps.PagesConfig',
-    # Third-party
+      # Third-party
     'crispy_forms',
     'crispy_bootstrap5',
     'allauth',
     'allauth.account',
+    # local
+    'accounts.apps.AccountsConfig',
+    'pages.apps.PagesConfig',
+    'books.apps.BooksConfig',
 ]
 
 MIDDLEWARE = [
