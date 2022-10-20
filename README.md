@@ -1,15 +1,15 @@
 # Online Bookstore App
 
 
-![Book Store First Page Look](https://drive.google.com/file/d/1RMog3AXkeklJwx4wmYZKuqVgy1fJOMeE/view) 
+![Book Store First Page Look!](static/images/bookstoreimproved.PNG) 
 
 <details>
 <summary>
 More screenshots
 </summary>
 
-![Bokstore demo](https://drive.google.com/file/d/1b4YlAG_tYLVfyAKfisIc6u4OkU7pe2q_/view)
-![Bookstore debugger demo](https://drive.google.com/file/d/1P1upg7TfyubM_mwDfd8_ZEI3DFN5p4WA/view)
+![Bokstore demo](static/images/Bookdetails.PNG)
+![Bookstore debugger demo!](static/images/Debuger%20Tool.PNG)
 ##### For the best experience, please use a device with a width of at least 350px
 
 
@@ -50,4 +50,4 @@ Distributed under the [MIT](https://github.com/Henoker/bookstore/blob/master/LIC
 
 ## Love my effort?
 
-<a href='https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/' target='_blank'><img height='35' style='border:0px;height:34px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Hire me at LinkediN' />
+<a href='https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/' target='_blank'><img height='35' style='border:0px;height:34px;' src='static/images/linked.png' border='0' alt='Hire me at LinkediN' />
