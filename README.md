@@ -50,4 +50,4 @@ Distributed under the [MIT](https://github.com/Henoker/bookstore/blob/master/LIC
 
 ## Love my effort?
 
-<a href='https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/' target='_blank'><img height='35' style='border:0px;height:34px;' src='https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BHK5r4iOtRqOXggatVwntiA%3D%3D' border='0' alt='Hire me at LinkedIN' />
+<a href='https://www.linkedin.com/in/henock-beyene-tesfatsion-921ba54b/' target='_blank'><img height='35' style='border:0px;height:34px;' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw2bZ1EFAdHHLsRolYrURA8q&ust=1666373482250000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDc-Y2r7_oCFQAAAAAdAAAAABAE' border='0' alt='Hire me at LinkedIN' />
